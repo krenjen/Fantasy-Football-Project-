@@ -6,5 +6,10 @@
 [Link to Kaggle Data](https://www.kaggle.com/datasets/gbolduc/fantasy-football-data-2017-2023)
 ### Distribution of Receiving Yards
 ### Distribution of Rushing Yards
+{% include_relative  %}
 ### Distribtuion of Passing Yards
-### Scatter Plot of 
+### Top 5 Players by Receiving Yards in 2022
+### Top Receiving PLayer by Year
+### Top Rushing Player by Year
+### Top Passing Player by Year
+### Scatter Plots
