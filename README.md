@@ -19,8 +19,8 @@
 ### Top Passing Player by Year
 {% include_relative  Top_passing_players.html %}
 ### Scatter Plots
-{% include_relative  Scatter_YR_PPR.html %}
-{% include_relative  Scatter_YardsperTouchdown_PPR.html %}
-{% include_relative  Scatter_YA_PPR.html %}
-{% include_relative  Scatter_YardsRushingTouchdown_PPR.html %}
-{% include_relative  Scatter_CompPCT_PPR.html %}
+{% include_relative  Scatter_YR_PPR.html %} <br>
+{% include_relative  Scatter_YardsperTouchdown_PPR.html %} <br>
+{% include_relative  Scatter_YA_PPR.html %} <br>
+{% include_relative  Scatter_YardsRushingTouchdown_PPR.html %} <br>
+{% include_relative  Scatter_CompPCT_PPR.html %} 
