@@ -12,7 +12,7 @@
 {% include_relative  Distribution_of_Passing_Yards.html %}
 ### Top 5 Players by Receiving Yards in 2022
 {% include_relative  Top5wr2022.html %}
-### Top Receiving PLayer by Year
+### Top Receiving Player by Year
 {% include_relative  Top_receiving_players.html %}
 ### Top Rushing Player by Year
 {% include_relative  Top_rushing_players.html %}
