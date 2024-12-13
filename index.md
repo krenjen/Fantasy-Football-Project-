@@ -3,7 +3,7 @@
 ### Link Below to Google CoLab worksheet 
 [Colab Code](final_project.py)
 ### Data Source
-[Link to Kaggle Data](https://www.kaggle.com/datasets/gbolduc/fantasy-football-data-2017-2023)
+[Link to Kaggle Data](https://www.kaggle.com/datasets/gbolduc/fantasy-football-data-2017-2023) 
 ### Distribution Plots
 {% include_relative  Distribution_of_Receiving_Yards.html %}
 
