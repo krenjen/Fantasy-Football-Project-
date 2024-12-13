@@ -9,7 +9,8 @@
 
 {% include_relative  Distribution_of_Rushing_Yards.html %}
 
-{% include_relative  Distribution_of_Passing_Yards.html 
+{% include_relative  Distribution_of_Passing_Yards.html %}
+
 ### Top Positional Players
 {% include_relative  Top5wr2022.html %}
 
